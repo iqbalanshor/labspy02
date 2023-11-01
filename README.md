@@ -1,1 +1,1 @@
-# labspy02
+# Tugas Struktur Kondisi
