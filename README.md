@@ -59,3 +59,9 @@ random_number = random.uniform(0,0.5)
 <p>Ini adalah tampilannya :</p>
 
 ![gambar](screenshot/ss4.png)
+# Flowchart
+
+![gambar](screenshot/flowchart.png)
+<p>Ini adalah tampilannya :</p>
+
+![gambar](screenshot/ss6.png)
