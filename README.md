@@ -19,7 +19,7 @@
 - `if` jika c lebih besar dari a/max, maka max = c
 <p>Ini adalah tampilannya :</p>
 
-![gambar](screenshot/ss5.png)
+![gambar](screenshot/ss6.png)
 # Tugas Perulangan
 # Latihan 1
 <p>Buat program dengan perulangan bertingkat (nested) untuk menghasilkan output sebagai berikut:</p>
